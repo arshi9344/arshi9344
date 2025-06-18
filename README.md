@@ -1,6 +1,6 @@
 <!-- Profile README for github.com/arshi9344 -->
 
-<h1 align="center">Hi, I'm Aarushi Raheja 👋</h1>
+<h1 align="center">Welcome! I'm Aarushi👋</h1>
 
 <p align="center">
   <b>Robotics · Teleoperation · Computer Vision · ML</b><br/>
@@ -22,8 +22,8 @@
 ## 🎓  Snapshot
 | | |
 |---|---|
-| **Education** | B.E. (Hons) Electrical & Computer Systems, Monash University (Jun 2025) |
-| **Internships** | **Google STEP** (SRE) — Bazel/Starlark CI for datacenter OS releases<br/>**CSIRO Data61** — XR haptic-glove research<br/>**Exertion Games Lab** — Pneumatic wearable accepted at ACM UIST ’23 |
+| **Education** | B.E. (Hons) Electrical & Computer Systems, Monash University (Jun 2025) <br> **Minors**: AI in Engineering, Computational Science |
+| **Internships** | **Google STEP** (SRE) — CI for datacenter OS releases (using Bazel, Starlark, internal tools)<br/>**CSIRO Data61** — XR haptic-glove research<br/>**Exertion Games Lab** — Pneumatic wearable accepted at ACM UIST ’23 |
 | **Leadership** | VP, Society of Monash Electrical Engineers |
 | **Interests** | Tele-op • Haptics • Robotics Software • CV • SLAM |
 
